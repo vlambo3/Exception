@@ -1,0 +1,32 @@
+GUIA 10
+
+PREG 5
+a- 
+Sentencias a1/a2/a3/a4/a6/a5
+
+b- 
+Sentencias a1/a2/a3/a4/a5
+
+PREG 6
+a- 
+Sentencias b1/b2/b3/b4
+
+b-
+Sentencias b1/b2/b4
+
+PREG 7
+a-
+Valor final del try 44
+Valor final del finally 45
+Valor antes del return 46
+46
+--> no entró en el catch porque NumberFormatException ---> es cuando por ej, en lugar de "42" había un "f"
+
+b-
+entra al catch 
+valor final del catch 43
+valor final del finally 44
+Valor antes del return 45
+45
+ 
+ 

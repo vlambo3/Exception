@@ -1,0 +1,18 @@
+Estos son los ejemplos que vimos durante la clase de Intro.
+Recomendaciones:
+1) Clase Ejemplo01NoVerificadas.java:
+
+    Descomentar un ejemplo a la vez para evitar errores de Netbeans, ya que los 3 casos planteados son c/u un método main. 
+    Si tenemos más de un método main netbeans nuestro código no compila.
+    Seguir las intrucciones escritas en cada ejemplo.
+
+2) Clase Ejemplo02Verificadas.java:
+
+    Dejar siempre comentado uno de los métodos leerArchivo(), si no lo hacemos, no compila.
+
+3) Jueguen con el código.
+
+    Rompan todo y traten de capturar las excepciones, pero no las de la Clase Error.
+    Y si no lograron capturarla, lean de que tipo de Objeto de Excepción es el error obtenido y googleen!
+
+Por cualquier cosa, siempre estoy en el foro esperando sus dudas.
